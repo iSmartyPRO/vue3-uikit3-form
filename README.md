@@ -37,3 +37,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+#### Sources
+https://codesandbox.io/s/zx1ynkqol?file=/src/components/Autocomplete.vue:0-11
